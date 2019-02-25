@@ -22,6 +22,7 @@
 <p>&nbsp;</p>
 
 
+
 <h3 style="text-align: justify;">Версія 2.0</h3>
 
 <p style="text-align: justify;">&nbsp;</p>
