@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
 
-
+<hr>
 
 <h3 style="text-align: justify;">Версія 2.0</h3>
 
